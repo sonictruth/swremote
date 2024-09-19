@@ -2,7 +2,7 @@
 
 WearOS / Android App that emulates a BLE Sony RMT-P1BT.
 
-![image](https://raw.githubusercontent.com/sonictruth/swremote/main/watch.jpg)
+![image](https://raw.githubusercontent.com/sonictruth/swremote/main/watch.jpg?reload)
 
 - Following cameras should work:
 A7R5 A7M4 ZV-E1 ZV-1F ZV-1 II ZV1 ZV-E10 FX30 A1 A7C II A7CII A6700 A6600 A6400 A6100 A7R IV III A7 IV III A9 II RX100 VII RX0 II
