@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SWRemote</string>
+    <string name="title">SWRemote</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="location_permission_rationale">Starting from Android 6, the system requires apps to be granted location access in order to scan for BLE devices.\n\nYour location is never used aside from enabling the app to perform BLE scans.</string>
+    <string name="bluetooth_permission_required">Nearby Devices Permission Required</string>
+    <string name="bluetooth_permission_rationale">Starting from Android 12, the system requires apps to be granted Nearby Devices access in order to scan for and connect to BLE devices.</string>
+    <string name="please_grant_relevant_permissions">Please grant required permissions</string>
+    <string name="app_settings_rationale">Prior requests for required permissions have been repeatedly or permanently denied. You\'ll need to manually grant the app these permissions from the app\'s Settings screen.</string>
+    <string name="cannot_launch_app_settings">Unable to launch app settings, please navigate to app settings manually</string>
+    <string name="app_settings">App Settings</string>
+    <string name="quit">Quit</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="disconnected_or_unable_to_connect_to_device">Disconnected or unable to connect to %1$s.</string>
+    <string name="ok">OK</string>
+    <string name="status">Status</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="focus_lost" />
+    <string name="focus_ready">✅️</string>
+    <string name="focus_busy">⌛</string>
+    <string name="shutter_active">📸</string>
+    <string name="shutter_ready" />
+    <string name="recording">📹</string>
+    <string name="shutter_button_text">📸</string>
+    <string name="record_button_text">📹</string>
+    <string name="af_on_button_text">AF-ON</string>
+    <string name="custom_button_text">C1</string>
+    <string name="zoom_in_button_text">🍳+</string>
+    <string name="zoom_out_button_text">🍳-</string>
+    <string name="focus_in_button_text">🎯+</string>
+    <string name="focus_out_button_text">🎯-</string>
+    <string name="scan_button">Scan</string>
+    <string name="welcome_text">Put camera in pairing mode when connecting for the first time</string>
+</resources>
