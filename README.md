@@ -1,4 +1,4 @@
-# Sony Wear Remote
+# Sony WearOS Remote
 
 WearOS / Android App that emulates a BLE Sony RMT-P1BT.
 
