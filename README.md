@@ -1,6 +1,6 @@
 # Sony WearOS Remote
 
-WearOS / Android app that emulates Sony BLE RMT-P1BT Camera Remote.
+WearOS (watch) / Android (phone) application that emulates Sony BLE RMT-P1BT Camera Remote.
 
 ![image](https://raw.githubusercontent.com/sonictruth/swremote/main/watch.jpg?reload)
 
